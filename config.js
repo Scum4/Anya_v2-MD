@@ -8,8 +8,8 @@ module.exports = {
     /**
      * bot details and parameters
      */
-    botname: process.env.BotName || "Queen Anya Bot",
-    footer: process.env.Footer || "© Queen Anya Bot",
+    botname: process.env.BotName || "𝗞𝗘𝗡𝗕𝗘𝗔𝗦𝗧_𝗠𝗗",
+    footer: process.env.Footer || "© 𝗞𝗘𝗡𝗕𝗘𝗔𝗦𝗧",
     prefa: process.env.Prefix || "-",
     themeemoji: process.env.ThemeEmoji || "🎐",
 
@@ -23,10 +23,10 @@ module.exports = {
     /**
      * other details and parameters
      */
-    author: process.env.Author || "@PikaBotz",
-    packname: process.env.PackName || "Queen Anya v2 MD",
-    socialLink: process.env.Web || "https://github.com/PikaBotz",
-    groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
+    author: process.env.Author || "𝑲𝒆𝒏𝒃𝒆𝒂𝒔𝒕🥷",
+    packname: process.env.PackName || "𝗞𝗲𝗻𝗻𝘆 𝗚",
+    socialLink: process.env.Web || "𝗸𝗲𝗻𝗻𝘆𝗱𝗲𝗴𝗶𝗮𝗻𝘁@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺",
+    groupLink: process.env.GcLink || "254728511744",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: 5, // default cooldown time per command in seconds
     mongoUrl: process.env.MongoDB || "mongodb+srv://Kenbeast:Kenbeast254.@atlascluster.heu1doj.mongodb.net/?retryWrites=true&w=majority&appName=AtlasCluster",
@@ -52,7 +52,7 @@ module.exports = {
         success: "✅ 𝚂𝚞𝚌𝚌𝚎𝚜𝚜! 𝙾𝚙𝚛𝚊𝚝𝚒𝚘𝚗 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍.",
         admin: "*👤 A𝙳𝙼𝙸𝙽 N𝙴𝙴𝙳𝙴𝙳!*\n\n- Dear, this command is only for Admins. You have to be a admin in this group to use this command.",
         botAdmin: "*🤖 B𝙾𝚃 A𝙳𝙼𝙸𝙽 N𝙴𝙴𝙳𝙴𝙳!*\n\n- I'm not an Admin, so I can't execute this command in this group. Please make me an Admin.",
-        owner: "*👑 O𝚆𝙽𝙴𝚁 N𝙴𝙴𝙴𝙳𝙴𝙳!*\n\n- Bruh, this command is only made for this bot's owner. So you can't use this command.",
+        owner: "*👑 O𝚆𝙽𝙴𝚁 N𝙴𝙴𝙴𝙳𝙴𝙳!*\n\n- Bruh, this command is only made for 𝑲𝒆𝒏𝒃𝒆𝒂𝒔𝒕🥷 infact dinywa😂.",
         group: "*👥 G𝚛𝚘𝚞𝚙 N𝚎𝚎𝚍𝚎𝚍!*\n\n- This command can only be executed in a group chat.",
         private: 'This command is only for private chats.',
         wait: '🔄 Processing request...',
