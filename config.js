@@ -16,9 +16,9 @@ module.exports = {
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
-    instagramId: process.env.Insta || "3.69_pika",
+    ownername: process.env.Owner_Name || "𝗞𝗘𝗡𝗕𝗘𝗔𝗦𝗧",
+    ownernumber: process.env.Owner_Number || "254728511744",
+    instagramId: process.env.Insta || "𝗝𝗨𝗦𝗧.𝗞𝗘𝗡𝗡𝗬",
 
     /**
      * other details and parameters
@@ -29,8 +29,8 @@ module.exports = {
     groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: 5, // default cooldown time per command in seconds
-    mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
-    sessionId: process.env.SESSION_ID || "YOUR_SESSION_ID",
+    mongoUrl: process.env.MongoDB || "mongodb+srv://Kenbeast:Kenbeast254.@atlascluster.heu1doj.mongodb.net/?retryWrites=true&w=majority&appName=AtlasCluster",
+    sessionId: process.env.SESSION_ID || "cVVJQ1hTQ1EjMlZxbko4all1RlotblpDRkQtN_Queen-Anya_3RaU2RwUUhmUnRsTHhLSjhZN_Queen-Anya_C1kdUxYVQ==",
 
     /**
      * thumbnails and medias
