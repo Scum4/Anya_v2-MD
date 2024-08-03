@@ -11,14 +11,14 @@ module.exports = {
     botname: process.env.BotName || "𝗞𝗘𝗡𝗕𝗘𝗔𝗦𝗧_𝗠𝗗",
     footer: process.env.Footer || "© 𝗞𝗘𝗡𝗕𝗘𝗔𝗦𝗧",
     prefa: process.env.Prefix || "-",
-    themeemoji: process.env.ThemeEmoji || "🎐",
+    themeemoji: process.env.ThemeEmoji || "☻️",
 
     /**
      * owner details and parameters
      */
     ownername: process.env.Owner_Name || "𝗞𝗘𝗡𝗕𝗘𝗔𝗦𝗧",
     ownernumber: process.env.Owner_Number || "254728511744",
-    instagramId: process.env.Insta || "𝗝𝗨𝗦𝗧.𝗞𝗘𝗡𝗡𝗬",
+    instagramId: process.env.Insta || "just.kenny._",
 
     /**
      * other details and parameters
@@ -30,7 +30,7 @@ module.exports = {
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: 5, // default cooldown time per command in seconds
     mongoUrl: process.env.MongoDB || "mongodb+srv://Kenbeast:Kenbeast254.@atlascluster.heu1doj.mongodb.net/?retryWrites=true&w=majority&appName=AtlasCluster",
-    sessionId: process.env.SESSION_ID || "cVVJQ1hTQ1EjMlZxbko4all1RlotblpDRkQtN_Queen-Anya_3RaU2RwUUhmUnRsTHhLSjhZN_Queen-Anya_C1kdUxYVQ==",
+    sessionId: process.env.SESSION_ID || "N0JRM_Queen-Anya_khRb0wjNDZoVDBucE9XOEdWbVVpQWxEM_Queen-Anya_jRqT3ZkUldhYllVM_Queen-Anya_1lsM_Queen-Anya_U50TWJteGRmVQ==",
 
     /**
      * thumbnails and medias
@@ -51,11 +51,11 @@ module.exports = {
     message: {
         success: "✅ 𝚂𝚞𝚌𝚌𝚎𝚜𝚜! 𝙾𝚙𝚛𝚊𝚝𝚒𝚘𝚗 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍.",
         admin: "*👤 A𝙳𝙼𝙸𝙽 N𝙴𝙴𝙳𝙴𝙳!*\n\n- Dear, this command is only for Admins. You have to be a admin in this group to use this command.",
-        botAdmin: "*🤖 B𝙾𝚃 A𝙳𝙼𝙸𝙽 N𝙴𝙴𝙳𝙴𝙳!*\n\n- I'm not an Admin, so I can't execute this command in this group. Please make me an Admin.",
+        botAdmin: "*🤖 B𝙾𝚃 A𝙳𝙼𝙸𝙽 N𝙴𝙴𝙳𝙴𝙳!*\n\n- I'm not an Admin, so I can't execute this command in this group. Please make me an Admin else,dinywa kijanaa😏😂😂.",
         owner: "*👑 O𝚆𝙽𝙴𝚁 N𝙴𝙴𝙴𝙳𝙴𝙳!*\n\n- Bruh, this command is only made for 𝑲𝒆𝒏𝒃𝒆𝒂𝒔𝒕🥷 infact dinywa😂.",
         group: "*👥 G𝚛𝚘𝚞𝚙 N𝚎𝚎𝚍𝚎𝚍!*\n\n- This command can only be executed in a group chat.",
         private: 'This command is only for private chats.',
-        wait: '🔄 Processing request...',
+        wait: '🔄 Naprocess,tulia bana😂 ...',
         error: "❌ Oops! An error occurred while processing your request. Please try again later.",
         ban: `You're banned from using this bot!`,
         nsfw: 'This group is not *NSFW* enabled.',
