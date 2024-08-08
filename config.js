@@ -30,7 +30,7 @@ module.exports = {
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: 5, // default cooldown time per command in seconds
     mongoUrl: process.env.MongoDB || "mongodb+srv://Kenbeast:Kenbeast254.@atlascluster.heu1doj.mongodb.net/?retryWrites=true&w=majority&appName=AtlasCluster",
-    sessionId: process.env.SESSION_ID || "N0JRM_Queen-Anya_khRb0wjNDZoVDBucE9XOEdWbVVpQWxEM_Queen-Anya_jRqT3ZkUldhYllVM_Queen-Anya_1lsM_Queen-Anya_U50TWJteGRmVQ==",
+    sessionId: process.env.SESSION_ID || "M0U1aG5KaEsjTFRhYm5XaTd1S_Queen-Anya_k8yTGxlT1JKS_Queen-Anya_ERUeVlQOG1zTkVBWG5lX2tBZEM3Mkg2S_Queen-Anya_Q==",
 
     /**
      * thumbnails and medias
